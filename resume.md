@@ -2,6 +2,8 @@
 
 _Charting the knowledge of the Internet, just like Galileo charted the stars._
 
+[![CI](https://github.com/Mzenit/skills-test-with-actions/actions/workflows/ci.yml/badge.svg)](https://github.com/Mzenit/skills-test-with-actions/actions/workflows/ci.yml)
+
 ## Experience
 
 ### GitHub Trainer
